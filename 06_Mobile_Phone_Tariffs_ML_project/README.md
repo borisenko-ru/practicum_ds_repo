@@ -31,10 +31,10 @@
 ## Контакты
 
 
-◽[LinkedIn](https://www.linkedin.com/in/borisenkoru/) 
-◽[Facebook](https://www.facebook.com/borisenko.ru/)
-[<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384031.png" width="10" />](https://www.instagram.com/borisenko_ru/)
-◽[Telegram](https://t.me/borisenko_ru)
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384088.png" width="20" />](https://www.linkedin.com/in/borisenkoru/) 
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1051/1051360.png" width="20" />](https://www.facebook.com/borisenko.ru/)
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384031.png" width="20" />](https://www.instagram.com/borisenko_ru/)
+[<img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111812.png" width="20" />](https://t.me/borisenko_ru)
 
 Alexey Borisenko \
 Petroleum Engineer and Data Scientist \
