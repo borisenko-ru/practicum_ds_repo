@@ -9,8 +9,8 @@
 ## [Специалист по Data Science](https://praktikum.yandex.ru/data-scientist) (когорта 13, август 2020 - май 2021):
 
 Диплом о профессиональной переподготовке «Специалист по Data Science» \
-[Russian](https://github.com/borisenko-ru/practicum_ds_data/blob/main/diploma/diploma.pdf) |
-[English](https://github.com/borisenko-ru/practicum_ds_data/blob/main/diploma/diploma_en.pdf)
+[📜Russian](https://github.com/borisenko-ru/practicum_ds_data/blob/main/diploma/diploma.pdf) |
+[📜English](https://github.com/borisenko-ru/practicum_ds_data/blob/main/diploma/diploma_en.pdf)
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
