@@ -30,10 +30,10 @@
 
 ## Контакты
 
-<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384031.png" width="40" />
+
 ◽[LinkedIn](https://www.linkedin.com/in/borisenkoru/) 
 ◽[Facebook](https://www.facebook.com/borisenko.ru/)
-◽[Instagram](https://www.instagram.com/borisenko_ru/)
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384031.png" width="10" />](https://www.instagram.com/borisenko_ru/)
 ◽[Telegram](https://t.me/borisenko_ru)
 
 Alexey Borisenko \
