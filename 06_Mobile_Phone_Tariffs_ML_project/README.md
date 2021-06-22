@@ -1,4 +1,4 @@
-# [Рекомендация тарифов телеком компании](https://github.com/borisenko-ru/practicum_ds_data/blob/main/06_Mobile_Phone_Tariffs_ML_project/06_Mobile%20Phone%20Tariffs_ML_project.ipynb)
+# [Рекомендация тарифов телеком компании](https://github.com/borisenko-ru/practicum_ds_data/blob/main/06_Mobile_Phone_Tariffs_ML_project/06_Mobile_Phone_Tariffs_ML_project.ipynb)
 
 ## Описание проекта
 
