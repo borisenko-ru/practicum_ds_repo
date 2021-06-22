@@ -66,7 +66,7 @@
 Общий вывод
 
 ## Стек библиотек
-`pandas`, `matplotlib`, `seaborn`, `numpy`, `sklearn`
+`pandas` `matplotlib` `seaborn` `numpy` `sklearn`
 
 ## Контакты
 
