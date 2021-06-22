@@ -1,1 +1,43 @@
+# [Оптимизация сталелитейного производства](https://github.com/borisenko-ru/practicum_ds_data/blob/main/16_Metallurgy_final_project/16_Metallurgy_final_project.ipynb)
 
+## Описание проекта
+
+Чтобы оптимизировать производственные расходы, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали. Необходимо построить модель, которая предскажет температуру стали. Целевой признак: последняя измеренная температура. Необходимо достичь качество модели по метрике `MAE ≤ 6.0`
+
+## Описание данных
+
+Данные состоят из файлов, полученных из разных источников:
+  - data_arc.csv — данные об электродах;
+  - data_bulk.csv — данные о подаче сыпучих материалов (объём);
+  - data_bulk_time.csv — данные о подаче сыпучих материалов (время);
+  - data_gas.csv — данные о продувке сплава газом;
+  - data_temp.csv — результаты измерения температуры;
+  - data_wire.csv — данные о проволочных материалах (объём);
+  - data_wire_time.csv — данные о проволочных материалах (время).
+
+Во всех файлах столбец key содержит номер партии. В файлах несколько строк с одинаковым значением key: они соответствуют разным итерациям обработки.
+
+## Структура проекта
+
+1. Описание проекта
+2. Исследовательский анализ данных
+3. Предобработка данных
+4. Подготовка данных
+5. Обучение моделей
+    - Линейная регрессия
+    - LightGBM
+    - CatBoost
+
+## Стек библиотек
+`pandas` `numpy` `seaborn` `matplotlib` `sklearn` `math` `warnings` `lightgbm` `catboost`
+
+## Контакты
+
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384088.png" width="20" />](https://www.linkedin.com/in/borisenkoru/) 
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1051/1051360.png" width="20" />](https://www.facebook.com/borisenko.ru/)
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384031.png" width="20" />](https://www.instagram.com/borisenko_ru/)
+[<img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111812.png" width="20" />](https://t.me/borisenko_ru)
+
+Alexey Borisenko \
+Petroleum Engineer and Data Scientist \
+2021
