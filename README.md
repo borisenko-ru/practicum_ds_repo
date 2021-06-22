@@ -14,7 +14,7 @@
 |	[Бурение](08_Oil_ML_project) | Выбор региона для бурения скважины | *pandas*, *numpy*, *sklearn* |
 |	[Золото](09_Gold_Recovery_project) | Моделирование процесса восстановления золота из золотосодержащей руды | *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn* |
 |	[Защита данных](10_Customer_Data_Protection_LinReg_project) | Разработка метода защиты данных клиентов страховой компании | *pandas*, *numpy*, *sklearn* |
-|	[Автомобили](11_Car_Price_Prediction_project) | Построение модели для определения стоимости автомобиля | *pandas*, *numoy*, *time*, *sklearn*, *lightgbm*, *catboost* |
+|	[Автомобили](11_Car_Price_Prediction_project) | Построение модели для определения стоимости автомобиля | *pandas*, *numpy*, *time*, *sklearn*, *lightgbm*, *catboost* |
 |	[Такси](12_Taxi_Orders_Prediction_project) | Прогнозирование количества заказов такси | *pandas*, *numpy*, *matplotlib*, *sklearn* *lightgbm*, *statsmodels* |
 |	[Токсичные комментарии](13_Toxic_Comments_project) | Построение модели поиска токсичных комментариев | *pandas*, *matplotlib*, *sklearn*, *nltk*, *re* |
 |	[Авиабилеты](14_Airline_Analytics_SQL_project) | Анализ спроса пассажиров на авиабилеты | *pandas*, *numpy*, *matplotlib*, *requests*, *bs4*, *folium* |
