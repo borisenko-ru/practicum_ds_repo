@@ -30,10 +30,12 @@
 
 ## Контакты
 
-[LinkedIn](https://www.linkedin.com/in/borisenkoru/) 
+🔳[LinkedIn](https://www.linkedin.com/in/borisenkoru/) 
 🔳[Facebook](https://www.facebook.com/borisenko.ru/)
 🔳[Instagram](https://www.instagram.com/borisenko_ru/)
+🔳[Telegram](https://t.me/borisenko_ru)
+🔳
 
-**Alexey Borisenko**
-Petroleum Engineer and Data Scientist
+#### Alexey Borisenko
+Petroleum Engineer and Data Scientist /
 2021
