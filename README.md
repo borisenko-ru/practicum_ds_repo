@@ -30,3 +30,14 @@
 |	[Извлечение данных. SQL](14_Airline_Analytics_SQL_project) | Анализ спроса пассажиров на авиабилеты | *pandas*, *numpy*, *matplotlib*, *requests*, *bs4*, *folium* |
 |	[Компьютерное зрение. Сверточные нейросети](15_Face_Recognition_CV_project) | Построение модели определения возраста человека по фотографии | *pandas*, *numpy*, *matplotlib*, *tensorflow* |
 |	[Выпускной проект](16_Metallurgy_final_project) | Разработка модели предсказания температуры стали на металлургическом производстве | *pandas*, *numpy*, *seaborn*, *matplotlib*, *sklearn*, *math*, *warnings*, *lightgbm*, *catboost* |
+
+## Контакты
+
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384088.png" width="20" />](https://www.linkedin.com/in/borisenkoru/) 
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1051/1051360.png" width="20" />](https://www.facebook.com/borisenko.ru/)
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384031.png" width="20" />](https://www.instagram.com/borisenko_ru/)
+[<img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111812.png" width="20" />](https://t.me/borisenko_ru)
+
+Alexey Borisenko \
+Petroleum Engineer and Data Scientist \
+2021
